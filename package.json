@@ -1,0 +1,16 @@
+{
+  "author": "Dan Kantor <dan@ex.fm>",
+  "name": "easy-cookies",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dankantor/easy-cookies",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dankantor/easy-cookies.git"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
